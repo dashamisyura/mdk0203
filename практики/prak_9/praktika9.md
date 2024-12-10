@@ -1,5 +1,5 @@
 ## Диаграмма №1
-<img src="fig1.png">
+<img src="fig11.png">
 
 ## Диаграмма #2
 <img src="fig2.png">
